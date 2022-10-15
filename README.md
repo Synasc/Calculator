@@ -16,4 +16,6 @@ if op == "*"
 if op == "/"
   result = num_1 / num_2
 
+print(f"{num_1} {op} {num_2} = {result}")
+
 calculator(5, 10, +)
